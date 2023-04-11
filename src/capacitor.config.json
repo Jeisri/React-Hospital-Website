@@ -1,0 +1,8 @@
+{
+    "appId": "io.ionic.doctors-portal-app-master",
+    "appName": "doctors-portal-app-master",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }

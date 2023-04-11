@@ -1,0 +1,7 @@
+{
+  "name": "doctors-portal-app-master",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

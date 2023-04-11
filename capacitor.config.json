@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "doctors-portal-app-master",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
